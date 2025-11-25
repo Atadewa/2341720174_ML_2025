@@ -21,3 +21,4 @@
 | Jobsheet 8  | Kuis                                                    | [JS08](./JS08)  |
 | Jobsheet 9  | Klasifikasi                                             | [JS09](./JS09)  |
 | Jobsheet 11 | Klasifikasi 2                                           | [JS11](./JS11)  |
+| Jobsheet 13 | Artificial Neural Network (ANN) dan Evaluasi Classifier | [JS13](./JS13)  |
