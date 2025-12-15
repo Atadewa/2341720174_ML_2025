@@ -23,5 +23,6 @@
 | Jobsheet 11 | Klasifikasi 2                                           | [JS11](./JS11)  |
 | Jobsheet 13 | Artificial Neural Network (ANN) dan Evaluasi Classifier | [JS13](./JS13)  |
 | Jobsheet 14 | Convolutional Neural Network (CNN)                      | [JS14](./JS14)  |
+| Jobsheet 15 | Pipeline Machine Learning & Deployment                  | [JS15](./JS15)  |
 | Kuis           | EDA & Pra-pengolahan Data                            | [Kuis](./KUIS/KUIS_JS04.ipynb)                |
 | Tugas Kelompok | Clustering K-Means & DBSCAN                          | [Tugas Kelompok](./KELOMPOK/KELOMPOK_5.ipynb) |
