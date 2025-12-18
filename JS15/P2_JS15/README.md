@@ -23,6 +23,6 @@ license: apache-2.0
 
 ## Hasil Deploy
 
-![Hasil Deploy 1](img/p2_js15_1.png)
+![Hasil Deploy 1](img/P2_JS15_1.png)
 
-![Hasil Deploy 2](img/p2_js15_2.png)
+![Hasil Deploy 2](img/P2_JS15_2.png)
