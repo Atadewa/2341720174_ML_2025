@@ -26,3 +26,4 @@
 | Jobsheet 15 | Pipeline Machine Learning & Deployment                  | [JS15](./JS15)  |
 | Kuis           | EDA & Pra-pengolahan Data                            | [Kuis](./KUIS/KUIS_JS04.ipynb)                |
 | Tugas Kelompok | Clustering K-Means & DBSCAN                          | [Tugas Kelompok](./KELOMPOK/KELOMPOK_5.ipynb) |
+| Tugas PBL      | Klasifikasi batik tulis vs batik cap dengan model CNN | [Tugas PBL](./PBL_KELOMPOK1/) |
