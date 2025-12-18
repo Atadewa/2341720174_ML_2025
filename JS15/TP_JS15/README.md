@@ -20,7 +20,7 @@ license: apache-2.0
 
 ## Link Deployment
 
-🔗 [Hugging Face Space - Batik Classifier](https://huggingface.co/spaces/Rasomon/batik-classifier-kelompok-1)
+🔗 [Hugging Face Space - Batik Classifier](https://huggingface.co/spaces/Rasomon/ml-batik-classifier)
 
 ## Hasil Deploy
 
